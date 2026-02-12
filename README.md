@@ -117,7 +117,7 @@ paul] blog post.
 [build url]: https://github.com/Unity-Billal-mesloub/browser-logos/actions/workflows/test.yml
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
 [contributors]: https://github.com/Unity-Billal-mesloub/browser-logos/graphs/contributors
-[github paul]: https://github.com/paulirish/
+[github paul]: https://github.com/Unity-Billal-mesloub/browser-logos
 [license]: LICENSE.txt
 [npm]: https://www.npmjs.com/
 [packages]: https://www.npmjs.com/org/browser-logos
