@@ -111,16 +111,16 @@ paul] blog post.
 <!-- Link labels: -->
 
 [archive readme]: src/archive/README.md#readme
-[archive]: https://github.com/alrra/browser-logos/archive/75.0.1.zip
+[archive]: https://github.com/Unity-Billal-mesloub/browser-logos/archive/75.0.1.zip
 [article paul]: https://www.paulirish.com/2010/high-res-browser-icons/
-[build icon]: https://github.com/alrra/browser-logos/actions/workflows/test.yml/badge.svg
-[build url]: https://github.com/alrra/browser-logos/actions/workflows/test.yml
+[build icon]: https://github.com/Unity-Billal-mesloub/browser-logos/actions/workflows/test.yml/badge.svg
+[build url]: https://github.com/Unity-Billal-mesloub/browser-logos/actions/workflows/test.yml
 [cdnjs]: https://cdnjs.com/libraries/browser-logos
-[contributors]: https://github.com/alrra/browser-logos/graphs/contributors
+[contributors]: https://github.com/Unity-Billal-mesloub/browser-logos/graphs/contributors
 [github paul]: https://github.com/paulirish/
 [license]: LICENSE.txt
 [npm]: https://www.npmjs.com/
 [packages]: https://www.npmjs.com/org/browser-logos
-[repo]: https://github.com/alrra/browser-logos/
+[repo]: https://github.com/Unity-Billal-mesloub/browser-logos/
 [src readme]: src/README.md#readme
 [yarn]: https://yarnpkg.com/
